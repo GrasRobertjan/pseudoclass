@@ -1,0 +1,38 @@
+
+        
+
+        
+        
+       
+       
+
+        nav ul {
+            margin: 10px;
+           
+            padding-left: 0%;
+            border: 1px solid black;
+            width: 800;
+            background-color: lightblue;
+        }
+
+        nav ul li {
+            display: inline;
+            padding: 10px;
+        }
+
+        nav ul li a {
+            color: black;
+        }
+        
+        a.one:hover{color: rgb(211, 224, 31);}
+        input:optional {background-color: green;}
+        a.two:focus{ color: brown;background-color: yellow;
+            font-size: 20px;;
+            border: solid}
+
+        
+        
+        
+        
+        
+       
